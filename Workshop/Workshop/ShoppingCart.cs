@@ -34,8 +34,8 @@ namespace Workshop
                         var extra = postageItem.Weight / 2;
                         total += extra * 0.55m;
                         break;
-                }
-            }
+                 }
+             }
             return total;
         }
     }
